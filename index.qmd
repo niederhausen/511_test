@@ -47,7 +47,7 @@ link-external-newwindow: true
 ### Course details
 
 {{< iconify fa6-solid calendar-days size=20px >}} Mondays, Wednesdays   
-{{< iconify fa6-solid calendar size=20px >}} Sept 25 - Dec 4  
+{{< iconify fa6-solid calendar size=20px >}} Sept 30 - Dec 11  
 {{< iconify icon-park-solid time size=20px >}} 1:00 PM - 2:50 PM  
 {{< iconify fa6-solid person-chalkboard size=20px >}} In-person
 :::
