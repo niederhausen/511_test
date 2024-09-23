@@ -24,7 +24,7 @@ link-external-newwindow: true
 ### Estimation and Hypothesis Testing
 ### Applied Biostatistics I
 
-#### Fall 2023
+#### Fall 2024
 :::
 
 :::
