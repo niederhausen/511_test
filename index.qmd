@@ -6,8 +6,8 @@ page-layout: full
 link-external-newwindow: true
 ---
 
-::: {style="background-color: #60775b"}
-::: {style="color: #FFFFFF"}
+::: {style="background-color: #42523F"}
+::: {style="color: #ECD7BE"}
 ::: grid
 
 ::: g-col-4
