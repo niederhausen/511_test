@@ -2,15 +2,64 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "511_test",
+    "title": "Welcome to BSTA 511/611!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nA little more text for testing."
+    "text": "Welcome to BSTA 511/611!\n\nEstimation and Hypothesis Testing\n\n\nApplied Biostatistics I\n\nFall 2023\n\n\n\n\n\n\n\n\nInstructor\n Dr. Meike Niederhausen\n Vanport 660E\n niederha@ohsu.edu\n\n\nCourse details\n Mondays, Wednesdays\nSept 25 - Dec 4\n1:00 PM - 2:50 PM\nIn-person\n\n\nOffice Hours\n Wednesdays 2:50-3:50 pm\nIn classroom\n Fridays 3:30-4:30 pm\n Webex (link on Sakai)\n\n\n\n\nContacting me\nE-mail or Slack is the best way to get in contact with me. I will try to respond to all course-related e-mails within 24 hours Monday-Friday.\n\n\n\n\n\n\n\n\n View the source on GitHub"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Assistant Professor of Biostatistics in the OHSU-PSU School of Public Health\nFaculty Biostatistician for OHSU’s Biostatistics & Design Program\nAffiliate Investigator for the HSR&D Center to Improve Veteran Involvement in Care (CIVIC) at the Portland VA"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Week\nDates\nTopics\nChapter sections\n\n\n\n\n1\nW 9/27\nDay 1: Introduction to R & RStudio\n\n\n\n2\nM 10/2\nDay 2: Intro to Data, Data collection, Summarizing numerical data\n1.1-1.4\n\n\n\nW 10/4\nDay 3: Data visualization, exploratory data analysis (EDA), and summarizing categorical data\n1.5-1.7 & supplementary\n\n\n3\nM 10/9\nDay 4: Probability\n2.1-2.2.4\n\n\n\nW 10/11\nDay 5: Bayes’ Theorem\n2.2.5\n\n\n4\nM 10/16\nDay 6: Random variables, Binomial distribution\n3.1-3.2\n\n\n\nW 10/18\nDay 7: Normal and Poisson distributions\n3.3-3.4\n\n\n5\nM 10/23\nDay 8: Variability in estimates\n4.1\n\n\n\nW 10/25\nExam 1: Days 1-6\nCh 1, 2, 3.1-3.2\n\n\n6\nM 10/30\nDay 9: Confidence Intervals\n4.2\n\n\n\nW 11/1\nDay 10: Hypothesis Testing: Single-sample with t-distribution & Two-sample paired data\n4.3, 5.1, 5.2\n\n\n7\nM 11/6\nDay 11: Hypothesis Testing: Two-sample independent data; Power\n5.3-5.4; Supplementary material\n\n\n\nW 11/8\nDay 12: Inference for a single proportion or difference in proportions\n8.1-8.2\n\n\n8\nM 11/13\nDay 13: Chi-squared tests, Fishers exact test\n8.3-8.4\n\n\n\nW 11/15\nExam 2: Days 7-11\nCh 3.3-3.4, 4, 5.1-5.4; Supplementary material\n\n\n9\nM 11/20\nDay 14: Comparing Means with ANOVA.\n5.5, Supplementary material\n\n\n\nW 11/22\nDay 15: Simple Linear Regression\n6.1-6.2\n\n\n10\nM 11/27\nDay 16: Simple Linear Regression\n6.3-6.4\n\n\n\nW 11/29\nDay 17: Non-parametric tests (sign, signed-rank, rank-sum, Kruskal-Wallis)\nSupplementary material\n\n\n11\nM 12/4\nReview - catch up\n\n\n\n\nW 12/6\nExam 3: Days 12-17\nCh 8, 5.5, 6, non-parametric"
+  },
+  {
+    "objectID": "about.html#meike-niederhausen",
+    "href": "about.html#meike-niederhausen",
+    "title": "About",
+    "section": "",
+    "text": "Assistant Professor of Biostatistics in the OHSU-PSU School of Public Health\nFaculty Biostatistician for OHSU’s Biostatistics & Design Program\nAffiliate Investigator for the HSR&D Center to Improve Veteran Involvement in Care (CIVIC) at the Portland VA"
+  },
+  {
+    "objectID": "about.html#course-info",
+    "href": "about.html#course-info",
+    "title": "About",
+    "section": "Course info",
+    "text": "Course info\nThis webpage was created for BSTA 511/611 in the OHSU-PSU School of Public Health. BSTA 511 is taken primarily by students in the Biostatistics MS/MPH and Epidemiology MPH programs. BSTA 611 is taken by PhD students in various programs across OHSU."
+  },
+  {
+    "objectID": "about.html#acknowledgements",
+    "href": "about.html#acknowledgements",
+    "title": "About",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n\nThank you to Nicky Wakim for creating her amazing webpage for BSTA 550, and sharing her code on GitHub. Having her template made creating this website a much smoother process.\nThank you also to Andrew Bray for presenting the From R Markdown to Quarto ASA Travelling Workshop to the Oregon Chapter of the ASA in June 2023. This workshop was a great starting point in making the switch from RMarkdown to Quarto and also create Quarto webpages."
+  },
+  {
+    "objectID": "instructors.html",
+    "href": "instructors.html",
+    "title": "Instructors",
+    "section": "",
+    "text": "Email: niederha@ohsu.edu\nOffice: VPT 660E\n\nPronouns: she/her/hers\nBest method to contact: Email or Slack.\n\n\n\nWednesdays 2:50-3:50 pm\nIn classroom\nFridays 3:30-4:30 pm\nVirtual (link on Sakai)"
+  },
+  {
+    "objectID": "instructors.html#instructor-meike-niederhausen-phd",
+    "href": "instructors.html#instructor-meike-niederhausen-phd",
+    "title": "Instructors",
+    "section": "",
+    "text": "Email: niederha@ohsu.edu\nOffice: VPT 660E\n\nPronouns: she/her/hers\nBest method to contact: Email or Slack.\n\n\n\nWednesdays 2:50-3:50 pm\nIn classroom\nFridays 3:30-4:30 pm\nVirtual (link on Sakai)"
+  },
+  {
+    "objectID": "instructors.html#ta-antara-vidyarthi",
+    "href": "instructors.html#ta-antara-vidyarthi",
+    "title": "Instructors",
+    "section": "TA: Antara Vidyarthi",
+    "text": "TA: Antara Vidyarthi\n\nEmail: vidyarth@ohsu.edu\n\n\nOffice Hours: TBD"
   }
 ]

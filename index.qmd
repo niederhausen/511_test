@@ -1,13 +1,86 @@
 ---
-title: "511_test"
+title: ""
+toc: false
+sidebar: true
+page-layout: full
+link-external-newwindow: true
 ---
 
-This is a Quarto website.
+::: {style="background-color: #60775b"}
+::: {style="color: #FFFFFF"}
+::: grid
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: g-col-4
 
-```{r}
-1 + 1
-```
+&nbsp;
 
-A little more text for testing. 
+![](images/IMG_7897_med.png){fig-align="center" width="210"}
+
+:::
+
+::: g-col-8
+# Welcome to BSTA 511/611!
+
+### Estimation and Hypothesis Testing
+### Applied Biostatistics I
+
+#### Fall 2023
+:::
+
+:::
+:::
+:::
+
+::: grid
+
+::: g-col-3
+### Instructor
+
+{{< iconify fluent person-24-filled size=20px >}} Dr. Meike Niederhausen
+
+{{< iconify bi building-fill size=20px >}} Vanport 660E
+
+{{< iconify tabler mail-filled size=20px >}} [niederha\@ohsu.edu](mailto:niederha@ohsu.edu)
+:::
+
+::: g-col-3
+### Course details
+
+{{< iconify fa6-solid calendar-days size=20px >}} Mondays, Wednesdays   
+{{< iconify fa6-solid calendar size=20px >}} Sept 25 - Dec 4  
+{{< iconify icon-park-solid time size=20px >}} 1:00 PM - 2:50 PM  
+{{< iconify fa6-solid person-chalkboard size=20px >}} In-person
+:::
+
+::: g-col-3
+### Office Hours
+
+{{< iconify fa6-solid calendar-days size=20px >}} __Wednesdays 2:50-3:50 pm__  
+{{< iconify fa6-solid person-chalkboard size=20px >}} In classroom
+
+{{< iconify fa6-solid calendar-days size=20px >}} __Fridays 3:30-4:30 pm__  
+<!-- <i class="fa-solid fa-globe"></i> -->
+{{< fa globe >}} Webex (link on [Sakai](https://sakai.ohsu.edu/portal/site/BSTA-511-1-AA-F23/))
+:::
+
+<!-- {{< iconify fa6-solid fluent-mdl2:join-online-meeting size=20px >}}  -->
+<!-- arcticons:webex -->
+
+
+::: g-col-3
+### Contacting me
+
+E-mail or Slack is the best way to get in contact with me. I will try to respond to all course-related e-mails within 24 hours Monday-Friday.
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-8
+:::
+
+::: g-col-4
+[{{< iconify icomoon-free github size=20px >}} View the source on GitHub](https://github.com/niederhausen/BSTA_511_F23)
+:::
+:::
