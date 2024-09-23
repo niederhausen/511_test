@@ -7,7 +7,7 @@ link-external-newwindow: true
 ---
 
 ::: {style="background-color: #42523F"}
-::: {style="color: #ECD7BE"}
+::: {style="color: #F9F2E8"}
 ::: grid
 
 ::: g-col-4
