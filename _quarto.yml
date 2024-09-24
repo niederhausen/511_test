@@ -24,8 +24,8 @@ website:
       #   text: Homework
       # - href: homework_solutions.qmd
       #   text: Homework solutions
-      - href: about.qmd
-        text: About
+      # - href: about.qmd
+      #   text: About
   sidebar:
     style: "docked"
     search: true

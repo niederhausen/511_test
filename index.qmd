@@ -6,8 +6,8 @@ page-layout: full
 link-external-newwindow: true
 ---
 
-::: {style="background-color: #42523F"}
-::: {style="color: #F9F2E8"}
+::: {style="background-color: #86A484"}
+::: {style="color: #FFFFFF"}
 ::: grid
 
 ::: g-col-4
@@ -33,7 +33,7 @@ link-external-newwindow: true
 
 ::: grid
 
-::: g-col-3
+::: g-col-4
 ### Instructor
 
 {{< iconify fluent person-24-filled size=20px >}} Dr. Meike Niederhausen
@@ -43,16 +43,16 @@ link-external-newwindow: true
 {{< iconify tabler mail-filled size=20px >}} [niederha\@ohsu.edu](mailto:niederha@ohsu.edu)
 :::
 
-::: g-col-3
+::: g-col-4
 ### Course details
 
-{{< iconify fa6-solid calendar-days size=20px >}} Mondays, Wednesdays   
-{{< iconify fa6-solid calendar size=20px >}} Sept 30 - Dec 11  
-{{< iconify icon-park-solid time size=20px >}} 1:00 PM - 2:50 PM  
+{{< iconify fa6-solid calendar-days size=20px >}} Mon, Wed   
+{{< iconify fa6-solid calendar size=20px >}} 9/30 - 12/11  
+{{< iconify icon-park-solid time size=20px >}} 1:00 - 2:50 PM  
 {{< iconify fa6-solid person-chalkboard size=20px >}} In-person
 :::
 
-::: g-col-3
+::: g-col-4
 ### Office Hours
 
 {{< iconify fa6-solid calendar-days size=20px >}} __Wednesdays 2:50-3:50 pm__  
@@ -67,17 +67,16 @@ link-external-newwindow: true
 <!-- arcticons:webex -->
 
 
-::: g-col-3
-### Contacting me
 
-E-mail or Slack is the best way to get in contact with me. I will try to respond to all course-related e-mails within 24 hours Monday-Friday.
-:::
 :::
 
 ------------------------------------------------------------------------
 
 ::: grid
 ::: g-col-8
+### Contacting me
+
+E-mail or Slack is the best way to get in contact with me. I will try to respond to all course-related e-mails within 24 hours Monday-Friday.
 :::
 
 ::: g-col-4
